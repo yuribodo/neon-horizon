@@ -1,6 +1,6 @@
 # Neon Horizon
 
-A retro '80s neon dark theme for [Orca](https://github.com/stablyai/orca): an app theme (UI + code colors) and a matching terminal palette. Inspired by Synthwave '84.
+A retro '80s neon dark theme for [Orca](https://github.com/stablyai/orca): an app theme (UI + code colors) and a matching terminal palette.
 
 ## Install
 
