@@ -5,10 +5,10 @@ A retro '80s neon dark theme for [Orca](https://github.com/stablyai/orca): an ap
 ## Install
 
 ```sh
-orca plugin install <this-repo-url>   # or a local folder path
+orca plugin install yuribodo/neon-horizon
 ```
 
-Then pick **Neon Horizon** in Settings → Appearance (app theme) and in the terminal palette picker.
+Then in Settings → Appearance pick **Neon Horizon** as the app theme, and under Terminal Themes → Dark Theme.
 
 ## Develop
 
