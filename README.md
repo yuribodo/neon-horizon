@@ -1,5 +1,7 @@
 # Neon Horizon
 
+![Neon Horizon](media/cover.webp)
+
 A retro '80s neon dark theme for [Orca](https://github.com/stablyai/orca): an app theme (UI + code colors) and a matching terminal palette.
 
 ## Install

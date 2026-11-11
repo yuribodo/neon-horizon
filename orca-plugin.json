@@ -2,10 +2,15 @@
   "manifestVersion": 2,
   "id": "neon-horizon",
   "name": "Neon Horizon",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A retro '80s neon dark theme for the app and terminal.",
   "license": "MIT",
   "repository": "https://github.com/yuribodo/neon-horizon",
+  "icon": "media/icon.png",
+  "cover": {
+    "path": "media/cover.webp",
+    "alt": "Neon Horizon: a neon striped sun setting over a pink grid, with a code editor and terminal in the theme colors."
+  },
   "engines": {
     "orca": ">=1.4.246"
   },
