@@ -1,0 +1,19 @@
+{
+  "manifestVersion": 2,
+  "id": "neon-horizon",
+  "name": "Neon Horizon",
+  "version": "0.1.0",
+  "description": "A retro '80s neon dark theme for the app and terminal.",
+  "engines": {
+    "orca": ">=1.4.246"
+  },
+  "execution": "data",
+  "contributes": {
+    "themes": [
+      { "id": "neon-horizon", "title": "Neon Horizon", "path": "themes/neon-horizon.json" }
+    ],
+    "terminalThemes": [
+      { "id": "neon-horizon", "title": "Neon Horizon", "path": "terminal/neon-horizon.json" }
+    ]
+  }
+}
